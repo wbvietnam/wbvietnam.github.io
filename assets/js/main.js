@@ -12,7 +12,7 @@ function myMenuFunction() {
 
 window.onscroll = function () { headerShadow() };
 let typeEffect = new Typed(".typedText", {
-    strings: [" менеджер вайлдберриз", " WB VIETNAM"],
+    strings: [" менеджеры вайлдберриз", " WB VIETNAM"],
     loop: true,
     typeSpeed: 100,
     backSpeed: 80,
